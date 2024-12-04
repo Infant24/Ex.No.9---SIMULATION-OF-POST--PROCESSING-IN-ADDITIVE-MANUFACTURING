@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 4.12.24
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,21 +34,30 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Image 1 6 2](https://github.com/user-attachments/assets/a7190223-a9e8-48af-82ec-ffb219d7bf04)
+
+![Image 2 6 2](https://github.com/user-attachments/assets/6d0af169-dcf8-4389-842e-973f2925d939)
+
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![Image 3 6 2](https://github.com/user-attachments/assets/c92db31a-aefd-4d72-89ec-9eb39f03636e)
+
+![Image 4 6 2](https://github.com/user-attachments/assets/5c5ad46d-8791-422b-9758-fb2801b1784f)
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
-## Output:
+![Image 5 6 2](https://github.com/user-attachments/assets/a444200d-07d4-4c82-b74f-12312ceea053)
 
-### Name:
-### Register Number:
+
+![Image 6 6 2](https://github.com/user-attachments/assets/2147f255-ddbf-4bfc-80f6-226099d4ffe7)
+
+
+
+
+### Name: Infant Maria Stefanie.F
+### Register Number: 24001512
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
